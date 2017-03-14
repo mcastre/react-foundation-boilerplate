@@ -1,4 +1,4 @@
-#React Foundation Boilerplate Project
+# React Foundation Boilerplate Project
 
 Basic boilerplate React project with Foundation and Sass
 
